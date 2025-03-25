@@ -1,0 +1,8 @@
+cryptography==44.0.2
+fastapi==0.115.12
+uvicorn
+pydantic==2.10.6
+PyJWT==2.10.1
+Requests==2.32.3
+SQLAlchemy==2.0.19
+streamlit==1.43.2
